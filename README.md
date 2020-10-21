@@ -1,7 +1,7 @@
 # GIE
 ![](https://img.shields.io/badge/version-0.2.0-blue.svg)
 
-GIE (Generative Image Editor, `/jəī/`) is a node based image editor, inspired by Blender's material node editing feature. Building upon the descriptive nature of visual data flow programming, each node represents a mutation done to a source image.
+GIE (Generative Image Editor, `/ˈdʒɑɪ/`) is a node based image editor, inspired by Blender's material node editing feature. Building upon the descriptive nature of visual data flow programming, each node represents a mutation done to a source image.
 
 ![GIE](screenshots/gie.jpg)
 
